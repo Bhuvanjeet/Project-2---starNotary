@@ -1,4 +1,4 @@
-# TL;DR
+# starNotary
 
 Token Name: `Star Notary`
 Symbol: `ST`
