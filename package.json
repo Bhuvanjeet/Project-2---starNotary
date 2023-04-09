@@ -1,0 +1,30 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Token Name: `Star Notary` Symbol: `ST`",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0",
+    "@truffle/hdwallet-provider": "^1.2.6",
+    "openzeppelin-solidity": "^2.1.2",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorerider/udacity-blockchain-developer-nanodegree-project-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gorerider/udacity-blockchain-developer-nanodegree-project-2/issues"
+  },
+  "homepage": "https://github.com/gorerider/udacity-blockchain-developer-nanodegree-project-2#readme"
+}
